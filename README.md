@@ -5,3 +5,5 @@ updated file
 ##SubHeader
 
 Downloaded repo through git commit repo-URL
+
+git add . #all the modified and new file will be added to git
